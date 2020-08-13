@@ -4,3 +4,7 @@ channels:
   - conda-forge
 dependencies:
   - pycrypto
+  - datetime
+  - time
+  - sympy
+  - numpy
